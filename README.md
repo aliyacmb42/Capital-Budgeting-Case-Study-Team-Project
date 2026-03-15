@@ -1,4 +1,4 @@
-## Cash-Flows-Case-Study-Project
+## Capital-Budgeting-Case-Study-Project
 ### Introduction
 Describe the business problem itself, noting that the paper is not available to share.  
 ### Process
